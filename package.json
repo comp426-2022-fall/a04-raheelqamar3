@@ -1,0 +1,27 @@
+{
+  "name": "a04",
+  "version": "1.0.0",
+  "description": "ok",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a04-raheelqamar3.git"
+  },
+  "author": "raheelqamar3",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a04-raheelqamar3/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a04-raheelqamar3#readme",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "express": "^4.18.2",
+    "minimist": "^1.2.7",
+    "shuf": "^1.0.2",
+    "timeout": "^0.2.1"
+  }
+}
